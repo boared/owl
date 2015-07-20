@@ -1,6 +1,6 @@
 /**
  * This template class is a data structure to hold and access images. The
- * Channel type represents the data type of a pixel.
+ * Channel type name represents the data type of an image pixel.
  * 
  * The origin of the coordinate system is top-left.
  * 
@@ -14,15 +14,14 @@
  *       v
  *       i
  * 
- * X = pixel value
- * p = padding (0 or more bytes for 32-bits alignment)
- *
+ *  X = pixel value
+ *  p = padding (0 or more bytes for 32-bits alignment)
  * 
  * 
  * Licensed under the MIT License (MIT)
  * Copyright (c) 2015 Eder de Almeida Perez
  * 
- * @author: Eder A. Perez.
+ * @author: Eder Perez.
  */
 
 

@@ -2,9 +2,9 @@
  * This file contains types definitions and related functions.
  * 
  * Licensed under the MIT License (MIT)
- * Copyright (c) 2015 Eder de Almeida Perez
+ * Copyright (c) 2015 Eder Perez
  * 
- * @author: Eder A. Perez.
+ * @author: Eder Perez.
  */
 
 #ifndef TYPES_H
